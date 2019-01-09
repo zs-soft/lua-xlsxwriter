@@ -29,6 +29,9 @@ description = {
 }
 dependencies = {
   "lua >= 5.1",
+  "lua-zlib",
+  "struct",
+  "bit32",
   "zipwriter",
 }
 build = {
