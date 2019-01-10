@@ -1,7 +1,7 @@
 package = "xlsxwriter"
 version = "0.0.1-1"
 source = {
-  url = "https://github.com/Android-Dongyf/xlsxwriter.git",
+  url = "https://github.com/zs-soft/lua-xlsxwriter.git",
   tag = "0.0.1"
 }
 description = {
