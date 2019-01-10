@@ -1,8 +1,8 @@
 package = "lua-xlsxwriter"
 version = "0.0.1-1"
 source = {
-  url = "https://github.com/zs-soft/lua-xlsxwriter/archive/master.zip",
-  dir = 'lua-xlsxwriter',
+  url = "https://github.com/zs-soft/lua-xlsxwriter.git",
+  tag = "0.0.1",
 }
 description = {
   summary = "A lua module for creating Excel XLSX files.",
